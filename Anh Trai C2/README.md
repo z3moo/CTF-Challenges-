@@ -9,7 +9,7 @@
 
 Mai, a senior accountant at *Global Corp*, downloaded a software tool that promised to help with her complex financial calculations. She ran the program, and for a moment, it seemed to work. However, shortly after, she noticed that the values in her important company files had been changed, and strange encrypted files started appearing in her documents folder.
 
-The security team quickly isolated her machine and captured the network traffic during the incident. We believe the tool was actually a Trojan communicating with a C2 (Command and Control) server.
+The security team quickly isolated her machine and captured the network traffic during the incident. We believe the tool was actually a Trojan communicating with an external server controlled by the attacker.
 
 ## Questions
 
